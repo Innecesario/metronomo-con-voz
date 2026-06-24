@@ -1,11 +1,12 @@
 # 🎛️ Metrónomo con Voz
 
-Un metrónomo digital con **voz en español** que cuenta los pulsos.
+Un metrónomo digital con **voz humana real en español** que cuenta los pulsos — como tener a alguien marcándote el ritmo junto a ti.
 
+**[▶ Probar ahora](https://TU-USUARIO.github.io/metronomo-con-voz/metronomo.html)**
 
 ## Características
 
-- **Voz en español** — dice "un, dos, tres, cuat, cinco, seis" con muestras de voz pregrabadas
+- **Voz real en español** — dice "un, dos, tres, cuat, cinco, seis" con muestras de voz pregrabadas
 - **3 compases** — 4/4, 3/4 y 6/8
 - **Subdivisión** — corcheas con tick intermedio entre pulsos (en 4/4 y 3/4)
 - **40–200 BPM** — con presets rápidos (60, 80, 100, 120, 140, 160), slider y atajos de teclado
